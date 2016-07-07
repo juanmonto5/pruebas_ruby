@@ -39,4 +39,4 @@ productos ={
 # 	nombre.downcas
 # end
 #pone la palabrar "cat" en las 4 posiciones
-puts (1..4).collect{"cat"}
+# puts (1..4).collect{"cat"}
